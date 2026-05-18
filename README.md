@@ -183,4 +183,5 @@ This project is licensed under the MIT License.
 **Rahul Sunil Deshmukh**
 
 MERN Stack Web Development Intern
-![Alt Text](outputss)
+<img src="images/dashboard.png" width="700">
+
