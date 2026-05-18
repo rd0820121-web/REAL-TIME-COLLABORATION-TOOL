@@ -183,4 +183,4 @@ This project is licensed under the MIT License.
 **Rahul Sunil Deshmukh**
 
 MERN Stack Web Development Intern
-![Alt Text](s)
+![Alt Text](Screenshot 2026-05-18 235713.png)
